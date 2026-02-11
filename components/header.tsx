@@ -22,10 +22,10 @@ import { useScrollSpy } from "@/hooks/useScrollSpy";
 import { WhatsApp } from "./whatsapp";
 
 const menu = [
-  { id: "Início", index: 0, name: "Home" },
-  { id: "Cobogós", index: 1, name: "Expertise" },
-  { id: "Revestimentos", index: 2, name: "Work" },
-  { id: "Galeria", index: 3, name: "Experience" },
+  { id: "Início", index: 0, name: "Início" },
+  { id: "Cobogós", index: 1, name: "Cobogós" },
+  { id: "Revestimentos", index: 2, name: "Revestimentos" },
+  { id: "Galeria", index: 3, name: "Galeria" },
 ];
 
 export default function Header() {
